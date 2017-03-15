@@ -1,1 +1,1 @@
-myJquery�Ƿ�װ��jq��Դ��
+﻿myJquery是封装的jq的源码
